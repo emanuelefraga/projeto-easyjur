@@ -1,0 +1,7 @@
+organization=emanuelefraga
+projectKey=projeto-easyjur
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.61662
+dashboardUrl=https://sonarcloud.io/dashboard?id=projeto-easyjur
+ceTaskId=AZYV8zdo7AClUGJ_IED-
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZYV8zdo7AClUGJ_IED-
